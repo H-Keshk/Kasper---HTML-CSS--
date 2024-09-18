@@ -1216,6 +1216,7 @@ li a:hover {
     font-size: 0.8rem;
     text-transform: uppercase;
     color: black;
+    caret-color: var(--txt-hover);
 }
 .contact-message form input::placeholder {
     color: black;

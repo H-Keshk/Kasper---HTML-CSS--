@@ -117,7 +117,7 @@ p {
 .home {
     position: relative;
     background-color: var(--dark-back);
-    background-image: url(/imgs/head-bg.jpg);
+    background-image: url(./imgs/head-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
